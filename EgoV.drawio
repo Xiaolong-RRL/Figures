@@ -4,14 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="M41UAt9uj_QEfifAQjRB-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;领域：第一视角长视频深度推理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="M41UAt9uj_QEfifAQjRB-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;领域：第一视角长视频深度推理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="190" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M41UAt9uj_QEfifAQjRB-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;核心问题：现有方法无法应对复杂长视频理解所需要的时空关联能力&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="M41UAt9uj_QEfifAQjRB-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;核心问题：现有方法无法应对复杂长视频理解所需要的时空关联能力&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="220" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="M41UAt9uj_QEfifAQjRB-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="M41UAt9uj_QEfifAQjRB-3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" parent="1" vertex="1">
+          <mxGeometry x="140" y="270" width="600" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ2-PZymQyruRovMXTyo-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;现有的baseline：基于llava框架的微调&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yZ2-PZymQyruRovMXTyo-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" vertex="1" parent="1">
+          <mxGeometry x="140" y="540" width="600" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
