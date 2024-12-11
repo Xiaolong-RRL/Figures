@@ -1,9 +1,18 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="8cUFiWItD1DDZQjzIxC4">
-    <mxGraphModel>
+    <mxGraphModel dx="683" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="M41UAt9uj_QEfifAQjRB-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;领域：第一视角长视频深度推理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="190" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M41UAt9uj_QEfifAQjRB-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;核心问题：现有方法无法应对复杂长视频理解所需要的时空关联能力&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M41UAt9uj_QEfifAQjRB-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
