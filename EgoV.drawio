@@ -20,7 +20,7 @@
           <mxGeometry x="140" y="540" width="600" height="170" as="geometry" />
         </mxCell>
         <mxCell id="yZ2-PZymQyruRovMXTyo-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;问题1：长视频深度链式推理&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;问题2：视频&lt;/font&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;时空&lt;/span&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;内容编码&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px; background-color: initial;&quot;&gt;问题3：第一视角任务&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="200" width="170" height="30" as="geometry" />
+          <mxGeometry x="300" y="200" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
